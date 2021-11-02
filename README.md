@@ -36,7 +36,7 @@ Process:  meant to simulate a process, the program will create processes to run 
        -public int id: the process id
        -public int totalLoops: the total number of loops this process has to run
   
-      (Methods):
+      -Methods:
           -Public Process MakeP(String filename, int x): Makes the individual process based on the file from filename and assigns an id to the process (x).
   
   
