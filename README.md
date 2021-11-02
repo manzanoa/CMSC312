@@ -20,6 +20,24 @@ NOTE: The program only asks this once.
 
 If the user wishes to have a random set of processes from varying templates they may choose 6 and the process will randomly make 10 processes.
 
+The program will output the steps each process has taken:
+	-for example: if process 1 is newly created the program will print
+		-”Process 1 is now: NEW”
+	-if process 2 is placed in the ready queue
+		-”Process 2 is now: READY”
+	-if running CALCULATE loops
+		-”Process (x) running calc loop (number of loops)
+		-same for I/O loops
+	-if process is in waiting list with WAITING state
+		-”Process (x) is now: WAITING”
+	-if process is out of ready queue and in running state
+		-”Process (x) is now: RUNNING”
+	-if process is terminating
+		-”Process (x) is now: TERMINATING”
+
+The program will also output and show that the processes are in order for SJF.
+
+
 This program uses the following classes:
 
 MainClass: holds the main loop and the scheduling method
