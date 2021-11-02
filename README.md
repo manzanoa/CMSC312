@@ -28,8 +28,8 @@ MainClass: holds the main loop and the scheduling method
   
 
 
-Process:  meant to simulate a process, the program will create processes to run through the loops until they are terminated.\n
-       \t-public List<PStep> Steps: the list of instructions the process has to complete
+Process:  meant to simulate a process, the program will create processes to run through the loops until they are terminated.
+       -public List<PStep> Steps: the list of instructions the process has to complete
        -public string State: the state of the process
        -public bool inCS: a boolean that determines if the process is currently under critical section
        -public int location: acts as a pointer to see what the next instruction is
