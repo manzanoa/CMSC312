@@ -1,7 +1,0 @@
-/Users/adrianmanzanodeleon/Documents/CMSC312/CMSC312/CMSC312_Project/CMSC312_Project/obj/Debug/CMSC312_Project.csproj.AssemblyReference.cache
-/Users/adrianmanzanodeleon/Documents/CMSC312/CMSC312/CMSC312_Project/CMSC312_Project/obj/Debug/CMSC312_Project.csproj.CoreCompileInputs.cache
-/Users/adrianmanzanodeleon/Documents/CMSC312/CMSC312/CMSC312_Project/CMSC312_Project/bin/Debug/CMSC312_Project.exe
-/Users/adrianmanzanodeleon/Documents/CMSC312/CMSC312/CMSC312_Project/CMSC312_Project/bin/Debug/CMSC312_Project.pdb
-/Users/adrianmanzanodeleon/Documents/CMSC312/CMSC312/CMSC312_Project/CMSC312_Project/obj/Debug/CMSC312_Project.exe
-/Users/adrianmanzanodeleon/Documents/CMSC312/CMSC312/CMSC312_Project/CMSC312_Project/obj/Debug/CMSC312_Project.pdb
-/Users/adrianmanzanodeleon/Documents/CMSC312/CMSC312/CMSC312_Project/CMSC312_Project/bin/Debug/Template1.txt
