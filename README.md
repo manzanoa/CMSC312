@@ -63,6 +63,14 @@ MainClass: holds the main loop and the scheduling method
 			-I suspect the semaphores i tried to use are responsible for the threads staying stuck and not continuing
 		-If the current command is CS_END
 			-end the critical section
+	
+	-public static void RoundRobin(List<Process> ReadyList, List<Process> NewList, List<Process> WaitingList, int countId, MemoryManager m)
+		-It should do the same as SJF method except without sorted lists or needing to find the shortest job first
+	-public static void RRThread(Process pr, List<Process> ReadyList, List<Process> NewList, List<Process> WaitingList, int countId, MemoryManager m, Semaphore s )
+		-Does the same as SJFThread and serves the same purpose but in Round Robin.
+	
+	-public static void terminate(Process pr, MemoryManager m, List<Process> ReadyList, List<Process> WaitingList, List<Process> NewList )
+		-recursively terminates the process and its children for cascading termination
         
   
 
