@@ -1,4 +1,0 @@
-/Users/adrianmanzanodeleon/Documents/CMSC312/CMSC312/CMSC312_Project/CMSC312_Project/bin/Release/Template1.txt
-/Users/adrianmanzanodeleon/Documents/CMSC312/CMSC312/CMSC312_Project/CMSC312_Project/bin/Release/CMSC312_Project.exe
-/Users/adrianmanzanodeleon/Documents/CMSC312/CMSC312/CMSC312_Project/CMSC312_Project/obj/Release/CMSC312_Project.csproj.CoreCompileInputs.cache
-/Users/adrianmanzanodeleon/Documents/CMSC312/CMSC312/CMSC312_Project/CMSC312_Project/obj/Release/CMSC312_Project.exe
