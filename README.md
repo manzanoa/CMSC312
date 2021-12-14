@@ -83,6 +83,7 @@ Process:  meant to simulate a process, the program will create processes to run 
        -public int id: the process id
        -public int memReq: the memory it needs to run
        -public int totalLoops: the total number of loops this process has to run
+       -public int priority: the higher the number the closer it should maybe be to the front
        -Methods:
           -Public Process MakeP(String filename, int x): Makes the individual process based on the file from filename and assigns an id to the process (x).
   
